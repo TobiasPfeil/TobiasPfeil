@@ -1,6 +1,6 @@
 - 🐬 Hi, I’m @TobiasPfeil
 - 🔥 I’m interested in *ANYTHING*
-- 🌱 I’m currently learning [Cinema 4D, Godot, Unreal, JavaScript, 🐛Bliss🦋, ✨Magic✨]
+- 🌱 I’m currently learning [Cinema 4D, Godot, Unreal, JavaScript, 🐛->🦋, ✨Magic✨]
 - 🌋 I’m looking to collaborate on *Mindblowing Projects*
 - 🛰️ How to reach me: [https://tobiaspfeil.blogspot.com/p/contact.html]
 
